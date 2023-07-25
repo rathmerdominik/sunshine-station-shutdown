@@ -1,1 +1,10 @@
 systemd-python
+fastapi
+tomli
+requests
+websockets
+pyamdgpuinfo
+wakeonlan
+psutil
+uvicorn
+hurry.filesize

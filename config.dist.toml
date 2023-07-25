@@ -1,0 +1,5 @@
+MAC_ADDRESS="" # used for the wake on lan endpoint
+IP_ADDRESS="0.0.0.0" 
+PORT="8000"
+LOG_LEVEL="INFO" 
+TIME_TO_SHUTDOWN="600" # In seconds
